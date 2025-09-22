@@ -1,5 +1,5 @@
 {
-  "name": "strata_wealth_backend",
+  "name": "form_backend",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,9 @@
   "keywords": [
     "node",
     "express",
-    "javscript"
+    "javscript",
+    "prisma",
+    "postgresql"
   ],
   "author": "alexander gonzalez",
   "license": "MIT",
