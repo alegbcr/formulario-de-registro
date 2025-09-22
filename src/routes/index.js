@@ -8,7 +8,7 @@ function routerApi(app) {
 
   // Web Site
   app.use("/", router);
-  router.use("/form", formRoute);
+  router.use("/", formRoute);
 
   // API
   router.use("/api/customers", registerRoute);
